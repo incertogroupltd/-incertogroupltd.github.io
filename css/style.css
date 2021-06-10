@@ -1,0 +1,11 @@
+body {
+    background-color: #474343
+}
+
+img {
+    display: block;
+    margin-top: 14%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+}
